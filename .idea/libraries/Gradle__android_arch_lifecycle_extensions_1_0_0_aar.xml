@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.lifecycle:extensions:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/wrapper/dists/gradle-6.6-all/caches/transforms-2/files-2.1/3d0c54a7ddeabbcfc79aa1ef73068a76/extensions-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/wrapper/dists/gradle-6.6-all/caches/transforms-2/files-2.1/3d0c54a7ddeabbcfc79aa1ef73068a76/extensions-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/wrapper/dists/gradle-6.6-all/caches/transforms-2/files-2.1/3d0c54a7ddeabbcfc79aa1ef73068a76/extensions-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/wrapper/dists/gradle-6.6-all/caches/modules-2/files-2.1/android.arch.lifecycle/extensions/1.0.0/5ca5911be288c4ce6db9f57930b20677430c4345/extensions-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
